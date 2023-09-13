@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "max7219.h": "c",
+        "stdutils.h": "c"
+    }
+}
